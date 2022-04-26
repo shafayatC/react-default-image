@@ -1,0 +1,12 @@
+/* add css module styles here (optional) */
+
+.defaultImage {
+  background-color: #E5E4E2;
+  display: flex;
+  justify-content: center;
+  float:left; 
+}
+.defaultImage span {
+  align-self: center;
+  color: #848482
+}
