@@ -18,7 +18,8 @@ Default image Component for ReactJS<br>
 - Support SSR. ( server-side-rendering )
 # Live demo
 
-  ![demo gif](https://raw.githubusercontent.com/shafayatC/react-simple-carousel-image-slider/main/slider.gif)
+  ![demo gif](https://raw.githubusercontent.com/shafayatC/react-default-image/main/img/1.png)
+  ![demo gif](https://raw.githubusercontent.com/shafayatC/react-default-image/main/img/2.png)
 
 # Install
 
@@ -53,9 +54,7 @@ If You want to see more detail source,<br>
 |        Name         |    Type    |  Required  | Description                                                                                                                                                       | Default   |
 | :-----------------: | :--------: | :--------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 |      **width**      |  `Number`  | `Required` | Image Slider Width                                                                                                                                                |           |
-|     **height**      |  `Number`  | `Required` | Image Slider Height                                                                                                                                               |           |
-If You want to see more detail,<br>
-
+|     **height**      |  `Number`  | `Required` | Image Slider Height                                                                                                                                               |          
 # License
 
 MIT
