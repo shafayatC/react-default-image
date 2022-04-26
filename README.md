@@ -53,8 +53,8 @@ If You want to see more detail source,<br>
 
 |        Name         |    Type    |  Required  | Description                                                                                                                                                       | Default   |
 | :-----------------: | :--------: | :--------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-|      **width**      |  `Number`  | `Required` | Image Slider Width                                                                                                                                                |           |
-|     **height**      |  `Number`  | `Required` | Image Slider Height                                                                                                                                               |          
+|      **width**      |  `Number`  | `Required` | Image  Width                                                                                                                                                |           |
+|     **height**      |  `Number`  | `Required` | Image  Height                                                                                                                                               |          
 # License
 
 MIT
