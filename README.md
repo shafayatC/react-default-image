@@ -4,12 +4,12 @@
 [![Download Count][download-image]][download-url]
 [![GitHub license][license-image]][license-url]
 
-[react-image]: https://img.shields.io/badge/ReactJS-%5E18.x-blue
+[react-image]: https://img.shields.io/badge/ReactJS-<16.x-blue
 [react-url]: https://reactjs.org
-[download-image]: https://img.shields.io/npm/dm/react-simple-carousel-image-slider?label=downlaod
+[download-image]: https://img.shields.io/npm/dm/react-default-image?label=downlaod
 [download-url]: https://www.npmjs.com/package/react-default-image
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-url]: https://github.com/shafayatC/react-simple-carousel-image-slider/blob/main/LICENSE
+[license-url]: https://github.com/shafayatC/react-default-image/blob/main/LICENSE
 
 Default image Component for ReactJS<br>
 
