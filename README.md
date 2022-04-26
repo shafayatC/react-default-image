@@ -47,7 +47,7 @@ const App = () => {
 
 If You want to see more detail source,<br>
 
-- [`example/src/App.tsx`](https://github.com/shafayatC/react-default-image/example/src/App.js)<br>
+- [`example/src/App.tsx`](https://github.com/shafayatC/react-default-image/blob/main/example/src/App.js)<br>
 
 # Props
 
